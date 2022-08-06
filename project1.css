@@ -1,0 +1,63 @@
+#logo {
+    background-color : ;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #336600;
+}
+li {
+  float: left;
+  display : block;
+  padding : 5px 16px;
+  color : orange;
+}
+i {
+  color : orange;
+  float : right;
+  padding : 5px 26px;
+  width : 20px;
+}
+#main {
+    position : relative;
+    height : 800px;
+    width : 100%;
+}
+ #slide1{
+    height : 700px;
+    width : 100%;
+}
+#div {
+    display : inline block;
+    margin : 65px;
+}
+#div1 {
+    float : left;
+    border : 6px solid white;
+    border-left : 80px solid white;
+    border-bottom : 80px solid white;
+}
+#div2 {
+    float : right;
+    color : black;
+    font-size : 35px;
+    border : 6px solid white;
+    text-shadow : 2px 7px 5px red;
+}
+#group {
+    display : inline block;
+    margin : 40px;
+    padding : 30px;
+}
+#g2 {
+    color : red;
+    float : right;
+    font-size : 20px;
+    border-top : 90px solid white;
+}
+#g1 {
+    float : left;
+    margin-left : 30px;
+}
