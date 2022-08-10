@@ -61,3 +61,40 @@ i {
     float : left;
     margin-left : 30px;
 }
+#boat {
+    display : flex;
+    margin : 40px;
+    padding : 30px;
+}
+#boat1 {
+    margin-right : 300px;
+  
+    margin-left : 10px;
+}
+#boat2 {
+}
+#boat23 {
+    display : flex;
+    width : 50%;   
+}
+.footer1 {
+    display : flex;
+    width : auto;
+    align-item : center;
+    background-color : black;
+    color : white;
+    margin-top : 30px;
+}
+.footer2 {
+    border-left : 100px solid black; 
+    border-right : 150px solid black; 
+}
+.footer2 ul {
+    list-style-type : none;
+    line-height : 2.6;
+    font-weight : 700;
+    font-size : 20px;
+}
+
+
+

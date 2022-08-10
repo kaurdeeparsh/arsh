@@ -1,0 +1,17 @@
+.footer1 {
+    display : flex;
+    width : auto;
+    align-item : center;
+    background-color : black;
+    color : white;
+}
+.footer2 {
+    border-left : 100px solid black; 
+    border-right : 150px solid black; 
+}
+.footer2 ul {
+    list-style-type : none;
+    line-height : 2.6;
+    font-weight : 700;
+    font-size : 20px;
+}
