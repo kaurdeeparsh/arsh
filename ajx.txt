@@ -1,0 +1,6 @@
+
+<html>
+<body>
+Here is the link to ajax.html
+</body>
+</html>

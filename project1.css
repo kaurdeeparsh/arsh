@@ -7,21 +7,27 @@ ul {
   padding: 10px;
   overflow: hidden;
   background-color: #336600;
+  position : fixed;
+  width : 100%;
 }
 li {
   float: left;
   display : block;
   padding : 5px 16px;
   color : orange;
+  font-size: 15px;
+}
+li a{
+color: orange;
 }
 i {
   color : orange;
   float : right;
   padding : 5px 26px;
-  width : 20px;
+  font-size : 20px;
 }
 #main {
-    position : relative;
+    
     height : 800px;
     width : 100%;
 }
